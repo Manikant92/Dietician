@@ -1,0 +1,94 @@
+{
+    "nutrients": {
+        "Vit C": [
+            "orange", "capsicum", "broccoli", "almond", "milk", "bread", "coke", "chips", "water"
+        ],
+        "Calcium": [
+            "milk", "broccoli", "bread", "avocado", "capsicum", "meat", "coke", "chips", "water"
+        ],
+        "Fibre": [
+            "avocado", "bean", "almond", "meat", "milk", "bread", "coke", "chips", "water"
+        ]
+    },
+
+    "foods": [
+        {
+            "name": "almond",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/almond.png",
+            "Vit C": 0,
+            "Fibre": 13
+        },
+        {
+            "name": "avocado",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/avocado.png",
+            "Calcium": 12,
+            "Fibre": 7
+        },
+        {
+            "name": "bean",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/bean.png",
+            "Fibre": 10
+        },
+        {
+            "name": "bread",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/bread.png",
+            "Vit C": 0,
+            "Calcium": 260,
+            "Fibre": 3
+        },
+        {
+            "name": "broccoli",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/broccoli.png",
+            "Vit C": 89,
+            "Calcium": 75
+        },
+        {
+            "name": "capsicum",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/capsicum.png",
+            "Vit C": 128,
+            "Calcium": 7
+        },
+        {
+            "name": "chips",
+            "type": "unhealthy",
+            "image_url": "./assets/image/foods/chips.png"
+        },
+        {
+            "name": "coke",
+            "type": "unhealthy",
+            "image_url": "./assets/image/foods/coke.png"
+        },
+        {
+            "name": "meat",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/meat.png",
+            "Calcium": 6,
+            "Fibre": 0
+        },
+        {
+            "name": "milk",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/milk.png",
+            "Vit C": 0,
+            "Calcium": 113,
+            "Fibre": 0
+        },
+        {
+            "name": "orange",
+            "type": "healthy",
+            "image_url": "./assets/image/foods/orange.png",
+            "Vit C": 53
+        },
+        {
+            "name": "water",
+            "type": "water",
+            "image_url": "./assets/image/foods/water.png"
+        }
+    ]
+}
